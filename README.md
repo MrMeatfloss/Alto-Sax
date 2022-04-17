@@ -4,3 +4,4 @@ The alto saxophone is in my opinion the most beginner friendly saxophone due to 
 
 ![Sax-size-comparison](https://user-images.githubusercontent.com/96707128/163698676-41cfd4fd-7eb4-4718-a940-6254a8832bb6.jpg)
 
+Alto saxophones are tuned at E♭ (E flat), which is higher pitched than the B♭ tenor saxophone, and is lower pitched than the B♭ soprano saxophone, which is an octave higher than an tenor saxophone despite both being B♭. This makes the alto saxophone popular due to its medium-high range sound, making it the jack-of-all-trades saxophone in the saxophone family.
